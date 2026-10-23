@@ -1,0 +1,4 @@
+organism,pos_threshold,original,reclassified_pos,reclassified_neg,balanced_total,balanced_pos,balanced_neg
+Xanthomonas oryzae,≤0.4μM,6506,5499,1007,2014,1007,1007
+Magnaporthe oryzae,≤1.0μM,5060,3721,1339,2678,1339,1339
+Rhizoctonia solani,≤1.0μM,2749,1138,1611,2276,1138,1138
